@@ -16,14 +16,8 @@ export default function Hero() {
     >
       <motion.div
         style={{ y }}
-        className="absolute inset-0 w-full h-full"
-      >
-        <img
-          src="/images/mountain-landscape.jpg"
-          alt="Mountain landscape"
-          className="w-full h-full object-cover"
-        />
-      </motion.div>
+        className="absolute inset-0 w-full h-full bg-gradient-to-br from-slate-900 via-blue-900 to-slate-800"
+      />
 
       <div className="relative z-10 text-center text-white">
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tight mb-6">
