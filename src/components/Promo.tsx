@@ -20,12 +20,12 @@ export default function Promo() {
       </div>
 
       <h3 className="absolute top-12 right-6 text-white/90 uppercase z-10 text-sm md:text-base lg:text-lg">
-        Как мы работаем
+        Профессионально
       </h3>
 
       <p className="absolute bottom-12 right-6 text-white/90 text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-5xl z-10">
-        От заказа до доставки — прозрачно, быстро, без лишних вопросов. Мы сопровождаем ваши вещи
-        на каждом этапе пути.
+        Быстрая прокачка вашего аккаунта в Metro Royale. Безопасно, надёжно,
+        по выгодным ценам.
       </p>
     </div>
   );
